@@ -1,5 +1,6 @@
 # GENTA HAX API LIST
 
 
-###### ・logToConsole
+## ・logToConsole
+
 A structure representing a log for displaying text
