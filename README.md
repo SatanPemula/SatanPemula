@@ -1,5 +1,4 @@
-# GentaHax Structure API
-
+# GentaHax Structure
 
 ## ・logToConsole
 
