@@ -1,4 +1,4 @@
-# GENTA HAX API LIST
+# GentaHax Structure API
 
 
 ## ・logToConsole
