@@ -170,92 +170,128 @@ item = {
 - Turtle Hat
 itemName = "nyan_hat"
 itemPrice = 25000
-item = {}
+item = {
+574
+}
 
 - Tiny Horsie
 itemName = "tiny_horsie"
 itemPrice = 25000
-item =
+item = {
+592
+}
 
-- Pleadian Star Ship
+- Pleiadian Star Ship
 ItemName = "star_ship"
 itemPrice = 25000
-item =
+item = {
+760
+}
 
 - Dragon Hand
 itemName = "dragon_hand"
 itemPrice = 50000
-item =
+item = {
+900
+}
 
 - Little Red Corvette
 itemName = "corvette"
 itemPrice = 25000
-item =
+item = {
+766
+}
 
 - Stick Horse
 itemName = "stick_horse"
 itemPrice = 25000
-item =
+item = {
+1012
+}
 
 - Ambulance
 itemName = "ambulance"
 itemPrice = 25000
-item =
+item = {
+1272
+}
 
 - Riding Raptor
 itemName = "raptor"
 itemPrice = 25000
-item =
+item = {
+1320
+}
 
 - Mid-Pacific Owl
 itemName = "owl"
 itemPrice = 30000
-item =
+item = {
+1540
+}
 
 - Unicorn Garland
 itemName = "unicorn"
 itemPrice = 50000
-item =
+item = {
+1647
+}
 
 - StarBoard
 itemName = "starboard"
 itemPrice = 30000
-item =
+item = {
+1740
+}
 
 - Growley Motorcycle
 itemName = "motorcycle"
 itemPrice = 50000
-item =
+item = {
+1950
+}
 
 - Monkey On Your Back
 itemName = "monkey_on_back"
 itemPrice = 50000
-item =
+item = {
+2900
+}
 
 - Carrot Sword
 itemName = "carrot_sword"
 itemPrice = 15000
-item =
+item = {
+2908
+}
 
 - Red Bicycle
 itemName = "red_bicycle"
 itemPrice = 30000
-item =
+item = {
+2974
+}
 
 - Fire Truck
 itemName = "fire_truck"
 itemPrice = 50000
-item =
+item = {
+3068
+}
 
 - Pet Slime
 itemName = "pet_slime"
 itemPrice = 100000
-item =
+item = {
+3166
+}
 
 - Dabstep Low Top Sneakers
 itemName = "dabstep_shoes"
 itemPrice = 30000
-item =
+item = {
+6780
+}
 ```
 
 ### ・II
