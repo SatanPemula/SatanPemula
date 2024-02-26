@@ -83,4 +83,29 @@ item = {}
 itemName = verdant_shades
 itemPrice = 
 item = {}
+
+- Transmutation
+itemName = transmutation_device
+itemPrice =
+item = {}
+
+- Contact Lens
+ItemName = contact_lenses
+itemPrice = 
+item = {}
+
+- Eye Drops
+itemName = eye_drops
+itemPrice = 
+item = {}
+
+- Nyan Hat
+itemName = nyan_hat
+itemPrice =
+item = {}
+
+- Tiny Horsie
+itemName = tiny_horsie
+itemPrice =
+item =
 ```
