@@ -24,8 +24,7 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this D
 "Creativity" = IV
 "Growtokens" = V
 ```
-
-### ・pItem
+### ・I
 
 ```ruby
 - Upgrade Backpack
