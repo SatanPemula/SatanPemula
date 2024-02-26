@@ -30,7 +30,7 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this d
 - Upgrade Backpack
 itemName = upgrade_bacpack
 itemPrice = dependsOnTheSlotBackpack
-item = {NULL}
+item = {-}
 
 - Clothes
 itemName = clothes
