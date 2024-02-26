@@ -77,7 +77,9 @@ item = {
 - Rare Clothes
 itemName = rare_clothes
 itemPrice = 800
-item = {}
+item = {
+https://growtopia.fandom.com/wiki/Rare_Clothes_Pack
+}
 
 - Infernal Shades
 itemName = infernal_shades
