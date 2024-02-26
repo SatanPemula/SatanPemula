@@ -4,6 +4,8 @@
 - Discord Server : [Click Kontol](
 https://discord.com/invite/mXUZ7Fj49u) 
 
+### Credits
+
 ```
 BY : RaizelSatana
 
@@ -14,7 +16,12 @@ Donate World : SatanPro 🗿
 Don't ever admit that you wrote this, because I'm so tired of writing all this DICK!
 ```
 
-### ・PLAYER Items
+### List
+```lua
+a
+```
+
+### 1
 
 ```lua
 - Upgrade Backpack
