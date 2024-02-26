@@ -1,4 +1,4 @@
-## List Debug Store Growtopia
+### List Debug Store Growtopia
 Growtopia store item name debug list, hopefully it's useful
 
 ## ・Player Items
