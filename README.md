@@ -49,6 +49,7 @@ shit()
 sleep(math.random(180, 200))
 else
 sendPacket(2, "action|buy\nitem|".. itemName) 
+sleep(math.random(180, 200)) 
 end
 end
 ```
