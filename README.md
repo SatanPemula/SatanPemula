@@ -114,12 +114,7 @@ item = {
 - Rare Clothes
 itemName = "rare_clothes"
 itemPrice = 800
-item = {
-i_am
-malas 
-menulis
-kontol
-}
+item = {cari_sendiri_di_wiki}
 
 - Infernal Shades
 itemName = "infernal_shades"
