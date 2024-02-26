@@ -147,12 +147,25 @@ item = {
 - Contact Lens Pack
 ItemName = "contact_lenses"
 itemPrice = 15000 
-item = {}
+item = {
+6760,
+6762,
+6764,
+6766,
+6768
+}
 
 - Eye Drop Pack
 itemName = "eye_drops"
 itemPrice = 30000
-item = {}
+item = {
+5458,
+5460,
+5462,
+5464,
+5466,
+5468
+}
 
 - Turtle Hat
 itemName = "nyan_hat"
