@@ -63,13 +63,13 @@ end
 ```
 ### ・I
 
-```ruby
-- Upgrade Backpack
+```js
+- Backpack Upgrade
 itemName = "upgrade_bacpack"
 itemPrice = dependsOnTheSlotBackpack
 item = {-}
 
-- Clothes
+- Clothes Pack
 itemName = "clothes"
 itemPrice = 50
 item = {
@@ -111,130 +111,138 @@ item = {
 234
 }
 
-- Rare Clothes
+- Rare Clothes Pack
 itemName = "rare_clothes"
-itemPrice = 800
+itemPrice = 500
 item = {cari_sendiri_di_wiki}
 
 - Infernal Shades
 itemName = "infernal_shades"
-itemPrice = 
-item = {}
+itemPrice = 25000
+item = {
+12474
+}
 
 - Tidal Shades
 itemName = "tidal_shades"
-itemPrice =
-item = {}
+itemPrice = 25000
+item = {
+12476
+}
 
 - Verdant Shades
 itemName = "verdant_shades"
-itemPrice = 
-item = {}
+itemPrice = 25000
+item = {
+12478
+}
 
-- Transmutation
+- Transmutabooth
 itemName = "transmutation_device"
-itemPrice =
-item = {}
+itemPrice = 25000
+item = {
+9170
+}
 
-- Contact Lens
+- Contact Lens Pack
 ItemName = "contact_lenses"
-itemPrice = 
+itemPrice = 15000 
 item = {}
 
-- Eye Drops
+- Eye Drop Pack
 itemName = "eye_drops"
-itemPrice = 
+itemPrice = 30000
 item = {}
 
-- Nyan Hat
+- Turtle Hat
 itemName = "nyan_hat"
-itemPrice =
+itemPrice = 25000
 item = {}
 
 - Tiny Horsie
 itemName = "tiny_horsie"
-itemPrice =
+itemPrice = 25000
 item =
 
-- Star Ship
+- Pleadian Star Ship
 ItemName = "star_ship"
-itemPrice =
+itemPrice = 25000
 item =
 
 - Dragon Hand
 itemName = "dragon_hand"
-itemPrice =
+itemPrice = 50000
 item =
 
-- Corvette
+- Little Red Corvette
 itemName = "corvette"
-itemPrice =
+itemPrice = 25000
 item =
 
 - Stick Horse
 itemName = "stick_horse"
-itemPrice =
+itemPrice = 25000
 item =
 
 - Ambulance
 itemName = "ambulance"
-itemPrice =
+itemPrice = 25000
 item =
 
-- Raptor
+- Riding Raptor
 itemName = "raptor"
-itemPrice =
+itemPrice = 25000
 item =
 
-- Owl
+- Mid-Pacific Owl
 itemName = "owl"
-itemPrice =
+itemPrice = 30000
 item =
 
-- Unicorn
+- Unicorn Garland
 itemName = "unicorn"
-itemPrice =
+itemPrice = 50000
 item =
 
-- Starboard
+- StarBoard
 itemName = "starboard"
-itemPrice =
+itemPrice = 30000
 item =
 
-- Motorcycle
+- Growley Motorcycle
 itemName = "motorcycle"
-itemPrice =
+itemPrice = 50000
 item =
 
-- Monkey On Back
+- Monkey On Your Back
 itemName = "monkey_on_back"
-itemPrice =
+itemPrice = 50000
 item =
 
 - Carrot Sword
 itemName = "carrot_sword"
-itemPrice =
+itemPrice = 15000
 item =
 
 - Red Bicycle
 itemName = "red_bicycle"
-itemPrice =
+itemPrice = 30000
 item =
 
 - Fire Truck
 itemName = "fire_truck"
-itemPrice =
+itemPrice = 50000
 item =
 
 - Pet Slime
 itemName = "pet_slime"
-itemPrice =
+itemPrice = 100000
 item =
 
-- Dabstep Shoes
+- Dabstep Low Top Sneakers
 itemName = "dabstep_shoes"
-itemPrice =
+itemPrice = 30000
 item =
 ```
 
-### II
+###・II
