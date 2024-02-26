@@ -115,7 +115,10 @@ item = {
 itemName = "rare_clothes"
 itemPrice = 800
 item = {
-https://growtopia.fandom.com/wiki/Rare_Clothes_Pack
+i_am
+malas 
+menulis
+kontol
 }
 
 - Infernal Shades
