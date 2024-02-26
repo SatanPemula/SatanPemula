@@ -1,7 +1,7 @@
 # List Debug Store Growtopia
 Growtopia store item name debug list, hopefully it's useful
 
-### - PLAYER Items
+### ・PLAYER Items
 
 ```lua
 - Upgrade Backpack
