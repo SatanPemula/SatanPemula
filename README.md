@@ -16,12 +16,16 @@ Donate World : SatanPro 🗿
 Don't ever admit that you wrote this, because I'm so tired of writing all this DICK!
 ```
 
-### List
+### List 
 ```lua
-a
+"Player Items" = I
+"World Building" = II
+"Activites" = III
+"Creativity" = IV
+"Growtokens" = V
 ```
 
-### 1
+### ・I
 
 ```lua
 - Upgrade Backpack
