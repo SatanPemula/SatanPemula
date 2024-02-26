@@ -19,7 +19,7 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this D
 ```lua
 - Upgrade Backpack
 itemName = upgrade_bacpack
-itemPrice = random
+itemPrice = dependsOnTheSlotBackpack
 item = {NULL}
 
 - Clothes
