@@ -65,12 +65,12 @@ end
 
 ```ruby
 - Upgrade Backpack
-itemName = upgrade_bacpack
+itemName = "upgrade_bacpack"
 itemPrice = dependsOnTheSlotBackpack
 item = {-}
 
 - Clothes
-itemName = clothes
+itemName = "clothes"
 itemPrice = 50
 item = {
 370,
@@ -112,49 +112,131 @@ item = {
 }
 
 - Rare Clothes
-itemName = rare_clothes
+itemName = "rare_clothes"
 itemPrice = 800
 item = {
 https://growtopia.fandom.com/wiki/Rare_Clothes_Pack
 }
 
 - Infernal Shades
-itemName = infernal_shades
+itemName = "infernal_shades"
 itemPrice = 
 item = {}
 
 - Tidal Shades
-itemName = tidal_shades
+itemName = "tidal_shades"
 itemPrice =
 item = {}
 
 - Verdant Shades
-itemName = verdant_shades
+itemName = "verdant_shades"
 itemPrice = 
 item = {}
 
 - Transmutation
-itemName = transmutation_device
+itemName = "transmutation_device"
 itemPrice =
 item = {}
 
 - Contact Lens
-ItemName = contact_lenses
+ItemName = "contact_lenses"
 itemPrice = 
 item = {}
 
 - Eye Drops
-itemName = eye_drops
+itemName = "eye_drops"
 itemPrice = 
 item = {}
 
 - Nyan Hat
-itemName = nyan_hat
+itemName = "nyan_hat"
 itemPrice =
 item = {}
 
 - Tiny Horsie
-itemName = tiny_horsie
+itemName = "tiny_horsie"
+itemPrice =
+item =
+
+- Star Ship
+ItemName = "star_ship"
+itemPrice =
+item =
+
+- Dragon Hand
+itemName = "dragon_hand"
+itemPrice =
+item =
+
+- Corvette
+itemName = "corvette"
+itemPrice =
+item =
+
+- Stick Horse
+itemName = "stick_horse"
+itemPrice =
+item =
+
+- Ambulance
+itemName = "ambulance"
+itemPrice =
+item =
+
+- Raptor
+itemName = "raptor"
+itemPrice =
+item =
+
+- Owl
+itemName = "owl"
+itemPrice =
+item =
+
+- Unicorn
+itemName = "unicorn"
+itemPrice =
+item =
+
+- Starboard
+itemName = "starboard"
+itemPrice =
+item =
+
+- Motorcycle
+itemName = "motorcycle"
+itemPrice =
+item =
+
+- Monkey On Back
+itemName = "monkey_on_back"
+itemPrice =
+item =
+
+- Carrot Sword
+itemName = "carrot_sword"
+itemPrice =
+item =
+
+- Red Bicycle
+itemName = "red_bicycle"
+itemPrice =
+item =
+
+- Fire Truck
+itemName = "fire_truck"
+itemPrice =
+item =
+
+- Pet Slime
+itemName = "pet_slime"
+itemPrice =
+item =
+
+- Dabstep Shoes
+itemName = "dabstep_shoes"
 itemPrice =
 item =
 ```
+
+### II
