@@ -19,16 +19,17 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this D
 ```lua
 - Upgrade Backpack
 itemName = upgrade_bacpack
-itemPrice = ?
-item = {
-370,
-3578,
-}
+itemPrice = random
+item = {NULL}
 
 - Clothes
 itemName = clothes
 itemPrice = 50
-item = {}
+item = {
+370,
+3578,
+372,
+}
 
 - Rare Clothes
 itemName = rare_clothes
