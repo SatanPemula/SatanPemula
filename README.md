@@ -13,7 +13,7 @@ Discord : satanlua
 
 Donate World : SatanPro 🗿
 
-Don't ever admit that you wrote this, because I'm so tired of writing all this DICK!
+Don't ever admit that you wrote this, because I'm so tired of writing all this debugsh*t
 ```
 
 ### List 
