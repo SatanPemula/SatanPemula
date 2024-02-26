@@ -27,7 +27,7 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this D
 
 ### ・I
 
-```xml
+```ruby
 - Upgrade Backpack
 itemName = upgrade_bacpack
 itemPrice = dependsOnTheSlotBackpack
