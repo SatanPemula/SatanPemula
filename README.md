@@ -1,6 +1,11 @@
 # List Debug Store Growtopia
 Growtopia store item name debug list, hopefully it's useful
 
+By : RaizelSatana
+Discord : satanlua
+Donate World : SatanPro 🗿
+Don't ever admit that you wrote this, because I'm so tired of writing all this DICK! 
+
 ### ・PLAYER Items
 
 ```lua
