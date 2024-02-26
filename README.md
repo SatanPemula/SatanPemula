@@ -20,7 +20,10 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this D
 - Upgrade Backpack
 itemName = upgrade_bacpack
 itemPrice = ?
-item = {?}
+item = {
+370,
+3578,
+}
 
 - Clothes
 itemName = clothes
