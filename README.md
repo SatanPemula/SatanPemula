@@ -243,7 +243,6 @@ item =
 itemName = "dabstep_shoes"
 itemPrice = 30000
 item =
-
 ```
 
-###・II
+### ・II
