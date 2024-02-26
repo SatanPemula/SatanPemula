@@ -1,4 +1,4 @@
-# - Debug Store Growtopia
+# Debug Store Growtopia
 - Growtopia store item name debug list, hopefully it's useful
 
 - Discord Server : [Click Kontol](
