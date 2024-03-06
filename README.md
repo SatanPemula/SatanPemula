@@ -17,13 +17,13 @@ Don't ever admit that you wrote this, because I'm so tired of writing all this d
 ```
 ### List 
 ```lua
-"Player Items" = I
-"World Building" = II
-"Activites" = III
-"Creativity" = IV
-"Growtokens" = V
+"Player Items" = v¹
+"World Building" = v²
+"Activites" = v³
+"Creativity" = v⁴
+"Growtokens" = v⁵
 ```
-### ・I
+### ・v¹
 
 ```js
 - Backpack Upgrade
@@ -256,4 +256,4 @@ item = {
 }
 ```
 
-### ・II
+### ・v²
